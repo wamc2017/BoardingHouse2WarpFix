@@ -1,0 +1,12 @@
+{
+  "Format": "1.24.0",
+  "Changes": [
+    {
+      "Action": "EditMap",
+      "Target": "Maps/BoardingHouse2",
+      "MapProperties": {
+        "Warp": "44 9 BoardingHouse 44 8 45 9 BoardingHouse 45 8"
+      }
+    }
+  ]
+}

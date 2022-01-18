@@ -1,0 +1,16 @@
+{
+  "Name": "CP Boarding House Warp Fix",
+  "Author": "me",
+  "Version": "1.0.0",
+  "Description": "Fixes the warp entry on the second floor of the Boarding House",
+  "UniqueID": "CPBoardingHouseWarpFix",
+  "MinimumApiVersion": "1.0",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "BusStopExpansion"
+    }
+  ]
+}
